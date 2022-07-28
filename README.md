@@ -1,4 +1,4 @@
-# Name: Weather App
+# Name: City Weather
 
 # Structure
 
